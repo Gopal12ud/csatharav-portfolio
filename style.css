@@ -529,7 +529,7 @@ form .btn2{
 /* Large Mobile */
 @media only screen and (min-width: 481px) and (max-width: 767px){
     #header{
-        background-image: url(images/phone-background.jpeg);
+        background-image: url(images/phone-background.png);
         min-height: 100svh;
     }
 
